@@ -1,3 +1,4 @@
+
 #Install the required packages (if not installed)
 
 install.packages("NLMR")
@@ -14,6 +15,9 @@ library(igraph)
 library(raster)
 library(rgdal)
 
+#Set the working directory
+setwd("C:/directory")
+
 ###################################
 #  NEUTRAL LANDSCAPE MODELS - NM  #
 ###################################
@@ -27,7 +31,6 @@ watershed <- raster("C:/folder/watershed_mask.tif")
 percent <- c(0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9)
 roughness <- c(0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9)
 numberldcp <- 1:100
-
 
 #Use a "for" loop to generate, manipulate (define extent and projection, classify) and write the landscapes to the hard drive
 
