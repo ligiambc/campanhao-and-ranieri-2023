@@ -1,3 +1,5 @@
+#Script used to generate a batch file for calculating landscape metrics using Fragstats
+
 #Set the working directory
 setwd("C:/directory")
 
