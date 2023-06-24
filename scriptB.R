@@ -1,3 +1,5 @@
+#Script used to generate landscapes with planned allocation of forest cover
+
 #Install the required packages (if not installed)
 
 install.packages("raster")
