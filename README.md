@@ -22,4 +22,4 @@ The following Python scripts are provided:
 * Scripts used to automate the calibration of the SDR model (F)
 * Script used to automate sediment yield calculation for multiple landscapes (G)
 
-In red are the information that need to be changed by the user. File names can also be changed as per user preference. Note that the code may need to be rewritten due to updates to the R packages and software used.
+Note that the code may need to be rewritten due to updates to the R packages and software used.
