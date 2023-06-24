@@ -1,3 +1,5 @@
+#Script used to extract the sediment yield from the attribute table of vector files
+
 #Install and load the 'foreign' package, which allows reading the database
 
 install.packages("foreign")
