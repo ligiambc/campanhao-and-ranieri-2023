@@ -1,3 +1,5 @@
+#Script used to extract the land cover in the riparian zone of NM landscapes to calculate landscape metrics
+
 #Install the required packages (if not installed)
 
 install.packages("raster")
