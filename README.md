@@ -5,10 +5,10 @@ Manuscript title: Influence of forest proportion and configuration at the waters
 Journal: Landscape Ecology
 
 Authors: Ligia Maria Barrios Campanhão*, Victor Eduardo Lima Ranieri
-São Carlos School of Engineering, University of São Paulo (USP), Av. João Dagnone, 1100, 13563-120, São Carlos, SP, Brazil.
+São Carlos School of Engineering, University of São Paulo (USP), Av. João Dagnone, 1100, São Carlos, SP, 13563-120, Brazil.
 
 *Corresponding author at:
-Luiz de Queiroz College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias, 11, 13418-260, Piracicaba, SP, Brazil. ligiambc@usp.br
+Luiz de Queiroz College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias, 11, Piracicaba, SP, 13418-260, Brazil. ligiambc@usp.br
 
 Scripts in R and Python employed in the data processing routines described in the Methods section are available. The following R scripts are provided:
 * Script used to create neutral landscape models without (A) and with (B) a continuous forest strip in the riparian zone
@@ -22,4 +22,4 @@ The following Python scripts are provided:
 * Scripts used to automate the calibration of the SDR model (F)
 * Script used to automate sediment yield calculation for multiple landscapes (G)
 
-Note that the code may need to be rewritten due to updates to the R packages and software used.
+Please note that the code may need to be rewritten due to updates to the R packages and software used.
